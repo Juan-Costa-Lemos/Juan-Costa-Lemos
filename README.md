@@ -4,7 +4,7 @@
 
 <div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Juan-Costa-Lemos&show_icons=true&theme=blue-green"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Costa-Lemos&layout=compact)"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Costa-Lemos&theme=blue-green&layout=compact)"/>
 </div>
 <br>
 
