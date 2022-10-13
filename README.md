@@ -1,10 +1,13 @@
 ## 👋 Olá eu sou Juan Costa
-<p>Eu sou um Desenvolvedor Python e também estou me aprimorando para ser um automatizador de processos roboticos.
+<p> Olá, me chamo Juan. Atualmente estou cursando Gestão da Tecnologia da Informação e também sou formado em Licenciatura em Matemática. Com meus conhecimentos na área da programação com Python posso te ajudar na Automação de Processos Robóticos (RPA), Desenvolvimento de Softwares e Sistemas Web. Sou proativo, gosto de lidar com pessoa, trabalhar em equipe, gosto de aprender e ensinar aquilo que eu sei, estou sempre em busca de novos conhecimentos e desafios.
 </p>
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Juan-Costa-Lemos&show_icons=true&theme=blue-green"/>
+
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Costa-Lemos&theme=blue-green&layout=compact)"/>
+
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Juan-Costa-Lemos&show_icons=true&theme=blue-green"/>
+
 </div>
 <br>
 
